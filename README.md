@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohit101" alt="lohit101" /></a> </p>
 
-- 🔭 I’m currently working on [ShopBuzz - A seamless, zero-code solution revolutionizing ecommerce](https://github.com/lohit101/shopbuzz)
+- 🔭 I’m currently working on [CryptoWall - Instant crypto payments app](https://cryptowall.live/)
 
 - 🌱 I’m currently learning **React.js, Angular.js, Next.js**
 
